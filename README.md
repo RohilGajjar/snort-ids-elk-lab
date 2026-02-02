@@ -158,5 +158,5 @@ Expand to Suricata comparison
 👨‍💻 Author
 
 Rohil Gajjar
-Cybersecurity Analyst Intern – Evolution Info Secure
+Cybersecurity Intern – Evolution Info Secure
 LinkedIn: linkedin.com/in/rohil-gajjar02
